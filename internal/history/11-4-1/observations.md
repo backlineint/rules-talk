@@ -1,0 +1,2 @@
+- It halllicunated a lot of things about rule formats, we need to give it the data that it needs.
+- Slides are kinf of boring. How can we lead it to using more intersting layouts?
