@@ -1,0 +1,2 @@
+- Format comparison slides is nice.
+- A lot of the strategy examples are good.
