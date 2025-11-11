@@ -55,4 +55,6 @@ And then in our rules (or a prompt)
 - The slides are a Slidev project. For documentation use context7
 ```
 
+- Favor keeping context inside your repository. Git history, local documentation, etc.
+
 Add anything that is missing from abstract.md

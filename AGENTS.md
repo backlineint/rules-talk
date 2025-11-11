@@ -1,5 +1,7 @@
 # Slide Presentation
 
+Build a presentation ready slide deck, not just an outline.
+
 ## Important Resources
 
 Impotant resources live in the /resources directory, including:
@@ -11,6 +13,7 @@ Impotant resources live in the /resources directory, including:
 ### Rules formats
 
 - We'll cover Agents.md, Cursor, Claude Code, and Codex. use context7
+- For cursor reference https://cursor.com/docs/context/rules
 
 ## Creating Slides
 
