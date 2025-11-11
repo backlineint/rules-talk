@@ -6,7 +6,7 @@
 - A slide about Actual AI. We're building a set of tools to provide guardrails for AI endabled software teams.
 - Anyone who has used AI for development has experienced it making mistakes.
 - Common advice is to think of AI as a Junior Developer.
-- I graduated college in 2002. Thinking of me as a developer 23 years ago is horrifying.
+- I graduated college in 2002. Thinking of me as a developer 23 years ago is horrifying. Use images of me as a junior developer here.
 - I needed mentors, clear guidelines, well documented codebases, and lots of learning and trial and error to get to where I am today.
 - Coding agents need the same thing.
 - Basic introduction to rules files and the various formats.
