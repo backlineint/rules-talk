@@ -1,1 +1,2 @@
 - junior_dev\* - images of me around the time that I was a junior developer.
+- brian-perry.jpg - a good photo of me for the bio slide
