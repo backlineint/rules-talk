@@ -21,3 +21,14 @@ Impotant resources live in the /resources directory, including:
 - When authoring slides, the content belongs in slides.md in the root of this project.
 - The slides should only include content for the presentation, not speaker notes.
 - Speaker notes can be included as html comments at the end of a slide.
+- Layouts and images need to be part of a frontmatter block. Here is an example
+
+```
+---
+layout: image-right
+image: ./resources/images/junior_dev2.jpeg
+---
+```
+
+- Make use of layouts to make the slides more compelling: https://sli.dev/builtin/layouts
+- Use headings to make the slides more compelling

@@ -27,9 +27,12 @@ duration: 35min
 # Unlocking the Power of Agent-Driven Development with Rules
 
 ---
-
+layout: cover
+---
 Whoops, I forgot to make my slides...
 
 ---
-
-Prompt: Author slides for my talk called 'Unlocking the Power of Agent-Driven Development with Rules'. The talk is 45 minues long.
+layout: quote
+---
+# Prompt: 
+## Author slides for my talk called 'Unlocking the Power of Agent-Driven Development with Rules'. The talk is 45 minues long.

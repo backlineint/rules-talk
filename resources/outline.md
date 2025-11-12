@@ -3,6 +3,15 @@
 - Add a joke slide that is completely off topic. Then reveal that we're kidding.
 - A slide about me, Brian Perry. I'm a founding engineer at Actual AI. I live in the Chicago suburbs, and I love Nintendo.
 - A slide about Cursor, who co-authored this talk.
+
+```
+## Cursor: Co-Author of This Talk
+
+- Cursor helped draft content, iterate on demos, and tighten language
+- `.cursor/rules` keeps Cursor aligned with the story arc
+- Today’s deck is proof that rules + agents co-create real work
+```
+
 - A slide about Actual AI. We're building a set of tools to provide guardrails for AI endabled software teams.
 - Anyone who has used AI for development has experienced it making mistakes.
 - Common advice is to think of AI as a Junior Developer.
