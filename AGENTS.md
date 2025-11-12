@@ -1,6 +1,6 @@
 # Slide Presentation
 
-Build a presentation ready slide deck, not just an outline.
+Build a presentation ready slide deck, not just an outline. Don't repeat a previous version of this presentation.
 
 ## Important Resources
 
@@ -32,3 +32,7 @@ image: ./resources/images/junior_dev2.jpeg
 
 - Make use of layouts to make the slides more compelling: https://sli.dev/builtin/layouts
 - Use headings to make the slides more compelling
+
+## Other Important Guidelines
+
+- Ignore content in the /internal directory
