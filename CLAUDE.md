@@ -12,7 +12,7 @@ Impotant resources live in the /resources directory, including:
 
 ### Rules formats
 
-- We'll cover Agents.md, Cursor, Claude Code, and Codex. use context7
+- We'll cover Agents.md, Cursor, Claude Code, and Github Copilot. use context7
 - For cursor reference https://cursor.com/docs/context/rules
 
 ## Creating Slides
@@ -20,16 +20,9 @@ Impotant resources live in the /resources directory, including:
 - The slides are a Slidev project. For documentation use context7
 - When authoring slides, the content belongs in slides.md in the root of this project.
 - The slides should only include content for the presentation, not speaker notes.
+- The slides should have sufficient contrast to be readable. Note that these slides will be presented in dark mode.
+- Make sure text doesn't overflow the slide. At most a slide can have 8 lines of text.
 - Speaker notes can be included as html comments at the end of a slide.
-- Layouts and images need to be part of a frontmatter block. Here is an example
-
-```
----
-layout: image-right
-image: ./resources/images/junior_dev2.jpeg
----
-```
-
 - Make use of layouts to make the slides more compelling: https://sli.dev/builtin/layouts
 - Use headings to make the slides more compelling
 

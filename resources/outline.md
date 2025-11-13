@@ -40,6 +40,15 @@
 - Rules are defined in your codebase as markdown files.
 - "If AI gets it wrong, don't give up - write a rule"
 
-4.
+4. **Understanding Rules Formats**
+
+- Overview of different formats
+- Cursor rules format
+- Claude Code rules format
+- Copilot rules format
+- Agents.md as an emerging standard
+- Comparison and use cases
+
+5.
 
 Add anything that is missing from abstract.md
