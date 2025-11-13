@@ -44,6 +44,8 @@ Create a complete slide deck in `slides.md` for a 45-minute presentation. The ta
 - Scoping rules appropriately
 - Building a rules library
 
+(Repurpose - "If AI gets it wrong, don't give up - write a rule")
+
 6. **Rules-Driven Workflow** (3-4 slides)
 
 - Building a workflow around rules

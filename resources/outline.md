@@ -14,10 +14,10 @@
 - A slide about Cursor, who co-authored this talk.
 
 ```
-## Cursor: Co-Author of This Talk
+## Claude Code: Co-Author of This Talk
 
 - Cursor helped draft content, iterate on demos, and tighten language
-- `.cursor/rules` keeps Cursor aligned with the story arc
+- `CLAUDE.md` keeps Cursor aligned with the story arc
 - Today’s deck is proof that rules + agents co-create real work
 ```
 
@@ -31,6 +31,15 @@
 - What I needed: mentors, guidelines, documentation, trial and error
 - Coding agents need the same thing
 
-3.
+3. **Why Rules Matter**
+
+- What are rules?
+  📝 **Reusable, scoped instructions that control agent behavior**
+  🎯 **They provide structure and guardrails**
+  🔄 **They enable consistent, predictable outcomes**
+- Rules are defined in your codebase as markdown files.
+- "If AI gets it wrong, don't give up - write a rule"
+
+4.
 
 Add anything that is missing from abstract.md
