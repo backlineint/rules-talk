@@ -1,6 +1,7 @@
 # Slide Presentation
 
-Build a presentation ready slide deck, not just an outline. Don't repeat a previous version of this presentation.
+Build a presentation ready slide deck, not just an outline.
+Don't repeat a previous version of this presentation.
 
 ## Important Resources
 
@@ -14,7 +15,6 @@ Impotant resources live in the /resources directory, including:
 ### Rules formats
 
 - We'll cover Agents.md, Cursor, Claude Code, and Github Copilot. use context7
-- For cursor reference https://cursor.com/docs/context/rules
 
 ## Creating Slides
 
