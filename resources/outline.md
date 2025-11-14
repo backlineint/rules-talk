@@ -16,8 +16,8 @@
 ```
 ## Claude Code: Co-Author of This Talk
 
-- Cursor helped draft content, iterate on demos, and tighten language
-- `CLAUDE.md` keeps Cursor aligned with the story arc
+- Claude helped draft content, iterate on demos, and tighten language
+- `CLAUDE.md` keeps Claude aligned with the story arc
 - Today’s deck is proof that rules + agents co-create real work
 ```
 
@@ -26,9 +26,12 @@
 2. **The Problem**
 
 - Everyone has experienced AI making mistakes
+
 - Common advice: "Think of AI as a Junior Developer"
-- Personal reflection: "I graduated in 2002 - thinking of me 23 years ago is horrifying"
+
+- I graduated in 2002 - thinking of me as a developer 23 years ago is horrifying
 - What I needed: mentors, guidelines, documentation, trial and error
+
 - Coding agents need the same thing
 
 3. **Why Rules Matter**
@@ -37,19 +40,31 @@
   📝 **Reusable, scoped instructions that control agent behavior**
   🎯 **They provide structure and guardrails**
   🔄 **They enable consistent, predictable outcomes**
-- Rules are defined in your codebase as markdown files.
-- "If AI gets it wrong, don't give up - write a rule"
 
-- We're not talking about the Drupal Rules module here.
+- Rules are defined in your codebase as markdown files. It is a charmingly low tech solution.
+
+- Note: We're not talking about the Drupal Rules module here.
 
 4. **Understanding Rules Formats**
 
 - Overview of different formats
+
 - Cursor rules format
+
 - Claude Code rules format
+
 - Copilot rules format
+
+repository-wide instructions file .github/copilot-instructions.md
+path-specific \*.instructions.md
+
 - Agents.md as an emerging standard
+
+Agents.md is also supported by Cursor and Copilot (but not Claude)
+
 - Comparison and use cases
+
+- I really wish everyone could just standarize on Agents.md
 
 5. **Practical Strategies from Building This Talk**
 
@@ -140,6 +155,24 @@ This is how I helped the agent select key images for the slides. Inside /resourc
 - Demo of cursor plan mode
 - Actual AI ADR Management Demo
 
-7.
+7. **Miscellaneous Tips and Tricks**
+
+- Consider keeping additional context in repository.
+  If the agent can't see it, it probably doesn't know it (and might make it up)
+  I saved all past runs I used for my eval process to the codebase.
+
+- The basics we sometimes ovelook are even more important when working with agents.
+  Linting
+  Testing
+  Documentation
+
+8. **Conclusion & Takeaways**
+
+- Key takeaways recap
+- Call to action
+- Q&A slide
+- "If AI gets it wrong, don't give up - write a rule"
+
+9.
 
 Add anything that is missing from abstract.md

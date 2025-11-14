@@ -15,6 +15,7 @@ Impotant resources live in the /resources directory, including:
 ### Rules formats
 
 - We'll cover Agents.md, Cursor, Claude Code, and Github Copilot. use context7
+- For Cursor, focus on project rules in .cursor/rules. See: https://cursor.com/docs/context/rules Also note that Cursor supports Agents.md
 
 ## Creating Slides
 
