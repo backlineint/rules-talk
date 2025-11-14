@@ -21,7 +21,9 @@
 - Today’s deck is proof that rules + agents co-create real work
 ```
 
-- Actual AI company slide. Just use the Actual AI Image here.
+- Actual AI company slide.
+
+Use the Actual AI Image here on it's own slide.
 
 2. **The Problem**
 
