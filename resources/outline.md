@@ -21,7 +21,7 @@
 - Today’s deck is proof that rules + agents co-create real work
 ```
 
-- Actual AI company slide. We're building a set of tools to provide guardrails for AI endabled software teams.
+- Actual AI company slide. Just use the Actual AI Image here.
 
 2. **The Problem**
 
