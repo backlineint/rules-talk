@@ -150,17 +150,6 @@ This is how I helped the agent select key images for the slides. Inside /resourc
 - actual-ai.png - an image for the Actual AI Company Slides. This probably won't look right in a two colmn layout.
 ```
 
-6. **Tools for Rules-Driven Workflows**
-
-- Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-  Behind the scenes, this is a series of complex rules.
-
-- Backlog.md demo
-
-- Demo of cursor plan mode
-
-- Actual AI ADR Management Demo
-
 7. **Miscellaneous Tips and Tricks**
 
 - Consider keeping additional context in repository.
@@ -176,12 +165,22 @@ This is how I helped the agent select key images for the slides. Inside /resourc
 - Cursor Directory Drupal Rules: https://cursor.directory/rules/drupal
   Could use this as a starting point.
 
+7. **Demos of Tools for Rules-Driven Workflows**
+
+- Backlog.md demo
+
+A tool for managing project collaboration between humans and AI Agents in a git ecosystem
+Behind the scenes, this is a series of complex rules.
+
+- Demo of cursor plan mode
+
+- Actual AI ADR Management Demo
+
 8. **Conclusion & Takeaways**
 
 - Key takeaways recap
-- Call to action
-- Q&A slide
 - "If AI gets it wrong, don't give up - write a rule"
+- Q&A slide
 
 9.
 
