@@ -40,6 +40,8 @@
 - Rules are defined in your codebase as markdown files.
 - "If AI gets it wrong, don't give up - write a rule"
 
+- We're not talking about the Drupal Rules module here.
+
 4. **Understanding Rules Formats**
 
 - Overview of different formats
@@ -130,6 +132,14 @@ This is how I helped the agent select key images for the slides. Inside /resourc
 - Scoping rules appropriately
 - Building a rules library
 
-6.
+6. **Tools for Rules-Driven Workflows**
+
+- Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
+  Behind the scenes, this is a series of complex rules.
+- Backlog.md demo
+- Demo of cursor plan mode
+- Actual AI ADR Management Demo
+
+7.
 
 Add anything that is missing from abstract.md
