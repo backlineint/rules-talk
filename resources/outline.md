@@ -34,7 +34,7 @@
 
 - Coding agents need the same thing
 
-3. **Why Rules Matter**
+3. **Rules Basics**
 
 - What are rules?
   📝 **Reusable, scoped instructions that control agent behavior**
@@ -45,11 +45,19 @@
 
 - Note: We're not talking about the Drupal Rules module here.
 
+- How to define effective rules
+
+- Best practices for rule writing
+
 4. **Understanding Rules Formats**
 
 - Overview of different formats
 
 - Cursor rules format
+  Cursor has had a variety of formats.
+  .cursorrules
+  Now .cursor/rules. (See: https://cursor.com/docs/context/rules)
+  Also supports Agents.md
 
 - Claude Code rules format
 
@@ -142,17 +150,15 @@ This is how I helped the agent select key images for the slides. Inside /resourc
 - actual-ai.png - an image for the Actual AI Company Slides. This probably won't look right in a two colmn layout.
 ```
 
-- How to define effective rules
-- Best practices for rule writing
-- Scoping rules appropriately
-- Building a rules library
-
 6. **Tools for Rules-Driven Workflows**
 
 - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
   Behind the scenes, this is a series of complex rules.
+
 - Backlog.md demo
+
 - Demo of cursor plan mode
+
 - Actual AI ADR Management Demo
 
 7. **Miscellaneous Tips and Tricks**
@@ -160,11 +166,15 @@ This is how I helped the agent select key images for the slides. Inside /resourc
 - Consider keeping additional context in repository.
   If the agent can't see it, it probably doesn't know it (and might make it up)
   I saved all past runs I used for my eval process to the codebase.
+  See the 'context_in_repository' image
 
 - The basics we sometimes ovelook are even more important when working with agents.
   Linting
   Testing
   Documentation
+
+- Cursor Directory Drupal Rules: https://cursor.directory/rules/drupal
+  Could use this as a starting point.
 
 8. **Conclusion & Takeaways**
 
