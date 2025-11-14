@@ -20,8 +20,6 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-# duration of the presentation
-duration: 35min
 ---
 
 # Unlocking the Power of Agent-Driven Development with Rules
